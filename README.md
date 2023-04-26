@@ -1,5 +1,4 @@
-### Hi there 👋 허나 자유와 방종의 차이쯤은 부디 구분하길
-
+### Hello there! 
 <!--
 **EveeBuona/EveeBuona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
